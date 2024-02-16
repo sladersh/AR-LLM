@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: add94022445a744e2a74db661674a150
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trackedImageManager: {instanceID: 0}
+  - cameraTransform: {instanceID: 0}
+  - turbineModel: {instanceID: 0}
+  - llmText: {instanceID: 0}
+  - sizeInputField: {instanceID: 0}
+  - sizeSubmitButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
